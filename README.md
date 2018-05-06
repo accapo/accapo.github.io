@@ -10,5 +10,5 @@ Version 1: ...
 
 ## Authors, Acks, Related, See also, and Thanks
 
-By Giovanni Pensa @menozero et al.
+By Giovanni Pensa [@menozero](https://github.com/menozero) et al.
 
