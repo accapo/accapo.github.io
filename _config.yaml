@@ -1,0 +1,10 @@
+
+title: Accapo
+
+url: "https://accapo.github.io"
+baseurl: ""
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
