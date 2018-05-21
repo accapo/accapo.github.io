@@ -1,0 +1,56 @@
+
+$u: 24px !default;
+$line-height: 1.44 !default;
+
+
+
+
+body {
+    font-family: "IBM Plex Serif";
+}
+
+h1, h2, h3, h4, h5, h6 {
+    // font-family: "IBM Plex Sans";
+}
+
+
+html {
+    font-size: $u / $line-height;
+    line-height: $u;
+}
+
+body {
+    margin: 0;
+    padding: $u $u * 2;
+}
+
+h1 {
+    font-size: 2 * $u / $line-height;
+    line-height: 2 * $u;
+    margin: $u / 2 0 $u * 1.5 0;
+    padding: 0;
+}
+
+h2 {
+    font-size: 1.5 * $u / $line-height;
+    line-height: 1.5 * $u;
+    margin: $u * 1.5 0 $u / 2 0;
+    padding: 0;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+a:link,
+a:visited {
+    text-decoration: none;
+    font-weight: 500;
+    color: #444;
+}
+a:link:hover,
+a:visited:hover {
+    text-decoration: underline;
+    color: #900;
+}
