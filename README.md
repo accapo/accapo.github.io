@@ -1,6 +1,6 @@
 ---
-permalink: '/'
 layout: homepage
+permalink: '/'
 ---
 
 # Accapo
@@ -14,7 +14,7 @@ This is still a work in progress (**WIP**).
 
 ## Roadmap
 
-Version 1: ...
+Version 1: local Jekyll.
 
 
 ## Authors, Acks, Related, See also, and Thanks
