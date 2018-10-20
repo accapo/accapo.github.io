@@ -9,12 +9,12 @@ permalink: '/'
 
 ## Status
 
-This is still a work in progress (**WIP**).
+This is still a work in progress (#**WIP**).
 
 
 ## Roadmap
 
-Version 1: local Jekyll.
+Version <b>1</b>: personal instance on a local Jekyll.
 
 
 ## Authors, Acks, Related, See also, and Thanks
@@ -22,3 +22,5 @@ Version 1: local Jekyll.
 By Giovanni Pensa ([@menozero](https://github.com/menozero)),
 [Bent Shelf](http://bentshelf.com/) srl,
 _et al._
+
+Fish logo by Viridiana.
